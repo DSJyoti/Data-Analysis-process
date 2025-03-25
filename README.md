@@ -3,24 +3,24 @@ This repository contains a structured approach to data analysis, covering data c
 
 
 1. Data Collection
-Gathering data from multiple sources (CSV files, databases, APIs, web scraping, etc.).
+* Gathering data from multiple sources (CSV files, databases, APIs, web scraping, etc.).
 
-Loading data into appropriate formats using Python libraries like pandas, numpy.
+* Loading data into appropriate formats using Python libraries like pandas, numpy.
 
 
 2. Data Cleaning & Preprocessing
-Handling missing values through imputation or removal.
+* Handling missing values through imputation or removal.
 
-Removing duplicate or irrelevant records.
+* Removing duplicate or irrelevant records.
 
-Standardizing formats (dates, text, categorical variables).
+* Standardizing formats (dates, text, categorical variables).
 
-Handling outliers and normalizing data for better analysis.
+* Handling outliers and normalizing data for better analysis.
 
 
 3. Exploratory Data Analysis (EDA)
-Summarizing data with descriptive statistics.
+* Summarizing data with descriptive statistics.
 
-Identifying patterns, correlations, and trends using visualization tools (matplotlib, seaborn).
+* Identifying patterns, correlations, and trends using visualization tools (matplotlib, seaborn).
 
-Detecting anomalies and distribution variations.
+* Detecting anomalies and distribution variations.
